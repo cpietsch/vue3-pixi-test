@@ -1,4 +1,4 @@
-# vue3 composition api test for pixijs lifecycle tests
+# vue3 composition api test for pixijs lifecycle and data
 
 > this is a quick hack to try out the new api and see if pixijs can be used via the composition api
 
